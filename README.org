@@ -1,0 +1,10 @@
+* cl-cerf
+
+Lisp wrapper to the libcerf library for complex error functions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ghollisjr/cl-cerf.git   |
+| commit  | 89c3146  |
+| systems | cl-cerf |
+|---------+-------------------------------------------|
+
